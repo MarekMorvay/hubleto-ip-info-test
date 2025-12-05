@@ -60,21 +60,37 @@ so it can be directly integrated into a real Hubleto environment.
 The folder layout strictly follows the structure used in Hubleto ERP and described in the developer documentation.
 
 hubleto-ip-info-test/
+
 │── src/
+
 │ └── Hubleto/
+
 │ └── App/
+
 │ └── Custom/
+
 │ └── IpInfoTest/
+
 │ ├── IpInfoTestApp.php
+
 │ ├── Controllers/
+
 │ │ ├── LookupController.php
+
 │ │ └── FavoritesController.php
+
 │ ├── Models/
+
 │ │ └── FavoriteIp.php
+
 │ └── Views/
+
 │ ├── form.php
+
 │ ├── result.php
+
 │ └── favorites.php
+
 └── README.md
 
 
