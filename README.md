@@ -32,17 +32,6 @@ It required delivering:
 - controllers, model, and views,
 - following the conventions of Hubleto ERP and Hubleto Framework.
 
-Hubleto does **not provide a full platform installation** publicly.  
-The downloadable package on the Hubleto website includes documentation and SDK materials,  
-but **not the runtime environment**, such as:
-
-- `public/` directory  
-- routing kernel  
-- Hubleto bootstrap  
-- Core framework files  
-- App loader system  
-
-Therefore, a full functional launch of the app is not possible without access to the platform ZIP or internal repository.
 
 Once the full Hubleto backend is available (for example via internal distribution),  
 this application can be placed into:
